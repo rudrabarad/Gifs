@@ -9,17 +9,19 @@
       <!-- Second GIF -->
       <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- Third GIF -->
       <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
     </td>
-  </tr>
-  <tr>
     <td>
       <!-- Fourth GIF -->
       <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
     </td>
-    <td>
+  </tr>
+  <tr>
+     <td>
       <!-- Fifth GIF -->
       <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
     </td>
@@ -37,6 +39,8 @@
       <!-- Eighth GIF -->
       <img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- Ninth GIF -->
       <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
